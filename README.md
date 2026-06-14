@@ -4,7 +4,7 @@
 
 Advanced portable cyber deck with WiFi, Bluetooth, NRF24 jamming, BLE spam, IR attacks, dual web servers, SD card media server, games, and AI integration.
 
-![Front View](photo/CyberDeck.jpeg)
+![Front View](photo/cyberDeck.jpeg)
 
 
 ## ✨ Features
