@@ -15,7 +15,11 @@ Advanced portable cyber deck with WiFi, Bluetooth, NRF24 jamming, BLE spam, IR a
   - NRF24 Jammer with PA+LNA (2 modules)
 - **Infrared Attacks** – Record & Replay IR signals
 - **Dual Web Servers**
+
+
 ![ServerAdmin](photo/serverAdmin.jpeg)
+
+
 ![ServerClient](photo/serverClient.jpeg)
   - Admin Panel
   - Media Server (browse & stream videos from SD card)
