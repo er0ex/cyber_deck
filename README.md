@@ -4,6 +4,9 @@
 
 Advanced portable cyber deck with WiFi, Bluetooth, NRF24 jamming, BLE spam, IR attacks, dual web servers, SD card media server, games, and AI integration.
 
+![Front View](photo/CyberDeck.jpeg)
+
+
 ## ✨ Features
 
 - **RF Attacks**
@@ -32,6 +35,8 @@ Advanced portable cyber deck with WiFi, Bluetooth, NRF24 jamming, BLE spam, IR a
 - RTC
 - DHT11
 - 4 Buttons
+
+![Wiring Diagram](photo/esp32s3_schematic_wiring_v2.png)
 
 ## 🚀 Getting Started
 
